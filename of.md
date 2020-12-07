@@ -1,2 +1,0 @@
-# openfoam222 test
-
